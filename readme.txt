@@ -8,4 +8,6 @@
 \f0\fs24 \cf0 Git is a distributed version control system.\
 Git is free software distributed under the 
 \f1 GPL
-\f0 .}
+\f0 .\
+Git  has a mutable index called stage.\
+Git  tracks changes.}
